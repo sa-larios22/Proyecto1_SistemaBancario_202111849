@@ -1,0 +1,101 @@
+ID,Nombre,Apellido,Número de Cuenta,Tipo de Cuenta,Saldo,Teléfono
+1,Nombre_1,Apellido_1,70186741-1,Ahorro,256848.49,+502 4634-7041
+2,Nombre_2,Apellido_2,42148275-2,Ahorro,378588.21,+502 2701-1140
+3,Nombre_3,Apellido_3,95968205-3,Depósito Monetario,294799.84,+502 6277-2079
+4,Nombre_4,Apellido_4,74601803-4,Ahorro,30357.74,+502 7371-9552
+5,Nombre_5,Apellido_5,18184518-5,Ahorro,270027.6,+502 1699-8122
+6,Nombre_6,Apellido_6,16900231-6,Depósito Monetario,320114.5,+502 3725-6825
+7,Nombre_7,Apellido_7,30990159-7,Ahorro,22124.56,+502 2309-4036
+8,Nombre_8,Apellido_8,95199340-8,Ahorro,454642.04,+502 4707-2479
+9,Nombre_9,Apellido_9,71110906-9,Depósito Monetario,137342.69,+502 7463-9125
+10,Nombre_10,Apellido_10,73918292-10,Ahorro,221838.88,+502 4877-6844
+11,Nombre_11,Apellido_11,18333998-11,Depósito Monetario,297348.82,+502 5179-4560
+12,Nombre_12,Apellido_12,76521738-12,Depósito Monetario,441055.06,+502 4512-6794
+13,Nombre_13,Apellido_13,74733811-13,Ahorro,1396.62,+502 2971-4116
+14,Nombre_14,Apellido_14,83663139-14,Depósito Monetario,334725.55,+502 2578-6047
+15,Nombre_15,Apellido_15,92660876-15,Ahorro,1863.95,+502 3747-5055
+16,Nombre_16,Apellido_16,21245911-16,Depósito Monetario,452320.53,+502 1032-1568
+17,Nombre_17,Apellido_17,56773356-17,Ahorro,32902.85,+502 2521-1412
+18,Nombre_18,Apellido_18,46652445-18,Depósito Monetario,93345.81,+502 6799-7612
+19,Nombre_19,Apellido_19,14336890-19,Ahorro,258026.54,+502 2317-4948
+20,Nombre_20,Apellido_20,99889802-20,Cuenta Corriente,478977.38,+502 6078-4269
+21,Nombre_21,Apellido_21,95106634-21,Ahorro,49903.3,+502 9339-4953
+22,Nombre_22,Apellido_22,27531899-22,Depósito Monetario,69878.3,+502 8041-5428
+23,Nombre_23,Apellido_23,32758535-23,Cuenta Corriente,389521.63,+502 3933-8108
+24,Nombre_24,Apellido_24,61509894-24,Ahorro,401927.14,+502 1361-5421
+25,Nombre_25,Apellido_25,37681508-25,Cuenta Corriente,422632.67,+502 1378-1168
+26,Nombre_26,Apellido_26,94866645-26,Depósito Monetario,362912.18,+502 3020-1501
+27,Nombre_27,Apellido_27,39101323-27,Cuenta Corriente,463962.67,+502 5289-3766
+28,Nombre_28,Apellido_28,87070799-28,Depósito Monetario,386683.78,+502 8648-2125
+29,Nombre_29,Apellido_29,67340692-29,Cuenta Corriente,350477.75,+502 7383-2797
+30,Nombre_30,Apellido_30,45571834-30,Cuenta Corriente,185147.29,+502 3096-8184
+31,Nombre_31,Apellido_31,13255488-31,Ahorro,173584.38,+502 1952-5965
+32,Nombre_32,Apellido_32,94506898-32,Cuenta Corriente,287467.2,+502 9213-2281
+33,Nombre_33,Apellido_33,32441473-33,Ahorro,166133.07,+502 7139-9509
+34,Nombre_34,Apellido_34,51055129-34,Ahorro,135808.85,+502 7808-4028
+35,Nombre_35,Apellido_35,75924278-35,Ahorro,429621.91,+502 9631-5687
+36,Nombre_36,Apellido_36,79405470-36,Depósito Monetario,107948.54,+502 8660-5711
+37,Nombre_37,Apellido_37,83553922-37,Depósito Monetario,245840.71,+502 8349-6442
+38,Nombre_38,Apellido_38,97088021-38,Depósito Monetario,320585.93,+502 7409-6058
+39,Nombre_39,Apellido_39,51043026-39,Ahorro,6289.75,+502 5837-7804
+40,Nombre_40,Apellido_40,87660033-40,Ahorro,333698.09,+502 6503-8892
+41,Nombre_41,Apellido_41,50835480-41,Cuenta Corriente,315395.54,+502 6391-6705
+42,Nombre_42,Apellido_42,47545719-42,Ahorro,239339.62,+502 9356-7623
+43,Nombre_43,Apellido_43,94309166-43,Depósito Monetario,314888.55,+502 5537-4944
+44,Nombre_44,Apellido_44,37606850-44,Ahorro,200042.87,+502 4547-5051
+45,Nombre_45,Apellido_45,78801829-45,Cuenta Corriente,411377.53,+502 8970-4741
+46,Nombre_46,Apellido_46,56729031-46,Depósito Monetario,134006.49,+502 4350-6200
+47,Nombre_47,Apellido_47,91537038-47,Ahorro,475775.7,+502 3292-8894
+48,Nombre_48,Apellido_48,85214887-48,Ahorro,487259.02,+502 8001-3707
+49,Nombre_49,Apellido_49,78475454-49,Depósito Monetario,207751.08,+502 4114-3685
+50,Nombre_50,Apellido_50,65265999-50,Ahorro,405056.99,+502 4220-9483
+51,Nombre_51,Apellido_51,39441360-51,Cuenta Corriente,318430.31,+502 4804-4400
+52,Nombre_52,Apellido_52,19532748-52,Ahorro,264383.79,+502 4605-2417
+53,Nombre_53,Apellido_53,46200820-53,Ahorro,221579.27,+502 4854-7899
+54,Nombre_54,Apellido_54,39507630-54,Ahorro,479574.77,+502 8050-6900
+55,Nombre_55,Apellido_55,33045163-55,Depósito Monetario,296997.21,+502 2365-5177
+56,Nombre_56,Apellido_56,10449043-56,Cuenta Corriente,352512.41,+502 5253-5469
+57,Nombre_57,Apellido_57,51735599-57,Depósito Monetario,174544.74,+502 6996-6850
+58,Nombre_58,Apellido_58,57696671-58,Depósito Monetario,52648.22,+502 1908-8792
+59,Nombre_59,Apellido_59,26105054-59,Ahorro,29643.61,+502 6128-8006
+60,Nombre_60,Apellido_60,17674543-60,Depósito Monetario,246703.29,+502 6205-5324
+61,Nombre_61,Apellido_61,32375652-61,Depósito Monetario,435070.78,+502 9236-5264
+62,Nombre_62,Apellido_62,44566238-62,Cuenta Corriente,412862.74,+502 7400-1175
+63,Nombre_63,Apellido_63,74371659-63,Ahorro,148883.04,+502 5759-9634
+64,Nombre_64,Apellido_64,72771579-64,Ahorro,392310.04,+502 6196-8323
+65,Nombre_65,Apellido_65,26912590-65,Ahorro,186256.17,+502 3155-6903
+66,Nombre_66,Apellido_66,86045822-66,Cuenta Corriente,290721.06,+502 9214-4715
+67,Nombre_67,Apellido_67,37512540-67,Depósito Monetario,118726.85,+502 2619-6294
+68,Nombre_68,Apellido_68,60088709-68,Depósito Monetario,7592.56,+502 3457-6711
+69,Nombre_69,Apellido_69,38069393-69,Ahorro,362087.49,+502 4837-9118
+70,Nombre_70,Apellido_70,59349720-70,Ahorro,79565.58,+502 5223-9875
+71,Nombre_71,Apellido_71,77099011-71,Depósito Monetario,208834.86,+502 5540-5573
+72,Nombre_72,Apellido_72,39726311-72,Ahorro,211769.67,+502 5869-3235
+73,Nombre_73,Apellido_73,18285745-73,Depósito Monetario,372380.99,+502 5939-6882
+74,Nombre_74,Apellido_74,65306824-74,Depósito Monetario,57947.97,+502 6184-1370
+75,Nombre_75,Apellido_75,19945090-75,Depósito Monetario,92619.95,+502 2021-4400
+76,Nombre_76,Apellido_76,85012644-76,Depósito Monetario,345280.98,+502 2650-3634
+77,Nombre_77,Apellido_77,98345523-77,Depósito Monetario,337721.56,+502 4631-1847
+78,Nombre_78,Apellido_78,55135597-78,Depósito Monetario,75671.7,+502 4778-6169
+79,Nombre_79,Apellido_79,60337816-79,Depósito Monetario,475836.98,+502 9146-8231
+80,Nombre_80,Apellido_80,83023398-80,Cuenta Corriente,80461.35,+502 6115-1599
+81,Nombre_81,Apellido_81,72404827-81,Depósito Monetario,418388.96,+502 8084-3431
+82,Nombre_82,Apellido_82,97765142-82,Depósito Monetario,32402.55,+502 8293-8716
+83,Nombre_83,Apellido_83,43373044-83,Ahorro,227765.81,+502 4743-2326
+84,Nombre_84,Apellido_84,56754118-84,Cuenta Corriente,397363.6,+502 9367-9904
+85,Nombre_85,Apellido_85,44804236-85,Depósito Monetario,18904.86,+502 9440-2863
+86,Nombre_86,Apellido_86,20696019-86,Ahorro,318741.09,+502 9420-2788
+87,Nombre_87,Apellido_87,49211733-87,Cuenta Corriente,37744.25,+502 3430-4778
+88,Nombre_88,Apellido_88,30636013-88,Cuenta Corriente,395143.58,+502 3437-4448
+89,Nombre_89,Apellido_89,67975072-89,Cuenta Corriente,328226.57,+502 6886-7722
+90,Nombre_90,Apellido_90,81627340-90,Depósito Monetario,489428.42,+502 3651-3402
+91,Nombre_91,Apellido_91,36544589-91,Cuenta Corriente,354288.23,+502 4370-2470
+92,Nombre_92,Apellido_92,69453745-92,Cuenta Corriente,252094.36,+502 5698-3416
+93,Nombre_93,Apellido_93,82104796-93,Depósito Monetario,122219.26,+502 8467-6201
+94,Nombre_94,Apellido_94,74772789-94,Depósito Monetario,145265.96,+502 6178-1987
+95,Nombre_95,Apellido_95,33493580-95,Cuenta Corriente,30242.36,+502 8551-2533
+96,Nombre_96,Apellido_96,55804262-96,Cuenta Corriente,251700.32,+502 1225-5153
+97,Nombre_97,Apellido_97,13414639-97,Ahorro,389228.61,+502 4191-2914
+98,Nombre_98,Apellido_98,80026970-98,Depósito Monetario,148577.46,+502 8816-7998
+99,Nombre_99,Apellido_99,65572768-99,Cuenta Corriente,343749.63,+502 9872-4407
+100,Nombre_100,Apellido_100,32923899-100,Ahorro,480138.8,+502 5365-7026

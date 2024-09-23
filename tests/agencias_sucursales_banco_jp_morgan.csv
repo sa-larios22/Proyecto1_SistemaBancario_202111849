@@ -1,0 +1,11 @@
+ID,Nombre,Tipo,Departamento,Municipio,Dirección,Código Postal,Teléfono
+1,Sucursal Antigua Guatemala 1,Sucursal,Sacatepéquez,Antigua Guatemala,Zona 7,91405,+502 8036-8423
+2,Sucursal Escuintla 2,Sucursal,Escuintla,Escuintla,Zona 1,97145,+502 9525-7114
+3,Sucursal Quetzaltenango 3,Sucursal,Quetzaltenango,Quetzaltenango,Zona 1,53915,+502 2873-4763
+4,Sucursal Cobán 4,Sucursal,Alta Verapaz,Cobán,Zona 8,31535,+502 6809-5562
+5,Sucursal Flores 5,Sucursal,Petén,Flores,Zona 10,63389,+502 5942-1959
+6,Sucursal Chiquimula 6,Sucursal,Chiquimula,Chiquimula,Zona 8,19714,+502 4495-5162
+7,Sucursal Jutiapa 7,Sucursal,Jutiapa,Jutiapa,Zona 10,55357,+502 4968-8680
+8,Sucursal Jalapa 8,Sucursal,Jalapa,Jalapa,Zona 10,33610,+502 2969-1720
+9,Sucursal Huehuetenango 9,Sucursal,Huehuetenango,Huehuetenango,Zona 5,89346,+502 9729-5410
+10,Sucursal Guatemala 10,Sucursal,Guatemala,Guatemala,Zona 10,45014,+502 4434-5617
